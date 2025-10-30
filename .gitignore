@@ -1,0 +1,14 @@
+# Env file
+.env
+
+# Big file
+*.flac
+*.gif
+*.mp4
+
+# Binary
+*.exe
+
+# Output
+*.html
+*.pdf

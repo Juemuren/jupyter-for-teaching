@@ -3,8 +3,9 @@
 
 # Big file
 *.flac
-*.gif
 *.mp4
+*.jpg
+*.gif
 
 # Binary
 *.exe

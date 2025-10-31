@@ -12,7 +12,7 @@
 
 在演示 Markdown 文档的使用时，用到了几个文件，其中部分文件并不包含在本仓库中
 
-- example.gif
+- example.jpg
 - example.flac
 - example.mp4
 
